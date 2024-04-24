@@ -1,7 +1,8 @@
 <H3>NAME : NIVETHA M</H3>
 <H3>REGISTER NO. 212221240034</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
+<H3>Aim: 
+ To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
